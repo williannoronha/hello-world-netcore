@@ -1,0 +1,11 @@
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\bin\Debug\netcoreapp2.1\HelloConsoleApp.deps.json
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\bin\Debug\netcoreapp2.1\HelloConsoleApp.runtimeconfig.json
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\bin\Debug\netcoreapp2.1\HelloConsoleApp.runtimeconfig.dev.json
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\bin\Debug\netcoreapp2.1\HelloConsoleApp.dll
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\bin\Debug\netcoreapp2.1\HelloConsoleApp.pdb
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.csprojAssemblyReference.cache
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.AssemblyInfoInputs.cache
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.AssemblyInfo.cs
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.dll
+C:\Users\noronha\workspaces\repos\hello-world-netcore\src\HelloConsoleApp\obj\Debug\netcoreapp2.1\HelloConsoleApp.pdb
